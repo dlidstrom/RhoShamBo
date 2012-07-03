@@ -33,7 +33,7 @@ struct IPlayer
    virtual std::string Name() const = 0;
 };
 
-typedef std::tr1::shared_ptr<IPlayer> IPlayerPtr;
+typedef std::shared_ptr<IPlayer> IPlayerPtr;
 
 IPlayer::HAND GetRandomHand();
 
