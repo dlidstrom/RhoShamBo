@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="RhoShamBo Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Bots">
+      <UniqueIdentifier>{de6905ba-b1fd-480d-aed4-bfa544abc24e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="IPlayer.cpp">
+      <Filter>RhoShamBo Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RhoShamBo.cpp">
+      <Filter>RhoShamBo Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>RhoShamBo Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Beat_BeatLast.cpp">
+      <Filter>Bots</Filter>
+    </ClCompile>
+    <ClCompile Include="BeatLast.cpp">
+      <Filter>Bots</Filter>
+    </ClCompile>
+    <ClCompile Include="DeBruijn.cpp">
+      <Filter>Bots</Filter>
+    </ClCompile>
+    <ClCompile Include="FCM.cpp">
+      <Filter>Bots</Filter>
+    </ClCompile>
+    <ClCompile Include="Henny.cpp">
+      <Filter>Bots</Filter>
+    </ClCompile>
+    <ClCompile Include="MixedStrategy.cpp">
+      <Filter>Bots</Filter>
+    </ClCompile>
+    <ClCompile Include="Predbot.cpp">
+      <Filter>Bots</Filter>
+    </ClCompile>
+    <ClCompile Include="Predictor.cpp">
+      <Filter>Bots</Filter>
+    </ClCompile>
+    <ClCompile Include="Rotating.cpp">
+      <Filter>Bots</Filter>
+    </ClCompile>
+    <ClCompile Include="Unbeatable.cpp">
+      <Filter>Bots</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IPlayer.h">
+      <Filter>RhoShamBo Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>RhoShamBo Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>RhoShamBo Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Beat_BeatLast.h">
+      <Filter>Bots</Filter>
+    </ClInclude>
+    <ClInclude Include="BeatLast.h">
+      <Filter>Bots</Filter>
+    </ClInclude>
+    <ClInclude Include="DeBruijn.h">
+      <Filter>Bots</Filter>
+    </ClInclude>
+    <ClInclude Include="FCM.h">
+      <Filter>Bots</Filter>
+    </ClInclude>
+    <ClInclude Include="Henny.h">
+      <Filter>Bots</Filter>
+    </ClInclude>
+    <ClInclude Include="MixedStrategy.h">
+      <Filter>Bots</Filter>
+    </ClInclude>
+    <ClInclude Include="Only.h">
+      <Filter>Bots</Filter>
+    </ClInclude>
+    <ClInclude Include="Predbot.h">
+      <Filter>Bots</Filter>
+    </ClInclude>
+    <ClInclude Include="Predictor.h">
+      <Filter>Bots</Filter>
+    </ClInclude>
+    <ClInclude Include="Rotating.h">
+      <Filter>Bots</Filter>
+    </ClInclude>
+    <ClInclude Include="Unbeatable.h">
+      <Filter>Bots</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+</Project>
