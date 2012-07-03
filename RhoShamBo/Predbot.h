@@ -1,7 +1,6 @@
-// $Id: Predbot.h 87 2009-01-11 19:14:17Z Daniel $
 //! @file
 //! Brief.
-//! @author Daniel Lidstrom <daniel.lidstrom@sbg.se>
+//! @author Daniel Lidstrom <dlidstrom@gmail.com>
 //! @date   2009-01-11 18:24
 //! @ingroup
 //!
@@ -12,7 +11,7 @@
 #include "IPlayer.h"
 
 //!
-//! @author  Daniel Lidstrom <daniel.lidstrom@sbg.se>
+//! @author  Daniel Lidstrom <dlidstrom@gmail.com>
 //! @date    2009-01-11 18:24
 //! @ingroup
 //! Brief.
