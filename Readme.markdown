@@ -28,6 +28,19 @@ Here is a program that conducts tournaments for bots that play RhoShamBo (paper/
 
 See the existing bots in the `Bots` folder for examples.
 
+```
+Final rankings:
+     FCM (DL):  16 (7144)
+    Predictor:  14 (6733)
+Beat-BeatLast:  10 (2029)
+     BeatLast:   8 (58)
+     Rotating:   6 (5)
+    PaperOnly:   5 (-2985)
+    RocksOnly:   5 (-3992)
+   Unbeatable:   4 (-3993)
+ ScissorsOnly:   4 (-4999)
+```
+
 Now, can you beat the `FCM` predictor? Get in touch with me if you do!
 
 Daniel Lidström,
